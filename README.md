@@ -42,10 +42,6 @@ Commit suas alterações (git commit -m 'Adicionei uma nova feature')
 Faça um push para a branch (git push origin feature/nova-feature)
 Abra um Pull Request
 
-##🤝 Autor
-
-Seu Nome – Desenvolvedor e idealizador do projeto
-
 ##📜 Licença
 
 Este projeto é licenciado sob a MIT License.
